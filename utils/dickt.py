@@ -3,3 +3,4 @@ def get_val(collection, key, default='git'):
     if value == 'Not found':
         return default
     return value
+
